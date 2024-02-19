@@ -1,0 +1,7 @@
+Problem statement
+For the given code :
+
+Refactor the Gadget constructor function so that it works correctly
+
+Fix the implementation of the describeGadget() method so that it return a 
+string in the format "This gadget is a {type} from {brand}."
